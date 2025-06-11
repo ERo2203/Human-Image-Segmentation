@@ -26,9 +26,4 @@ This project performs full-body **human segmentation** using a lightweight **UNe
 
 ---
 
-## 🛠️ Setup
 
-### 🔗 Install Dependencies
-
-```bash
-pip install -r requirements.txt
