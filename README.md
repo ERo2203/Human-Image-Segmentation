@@ -10,7 +10,7 @@ This project performs full-body **human segmentation** using a lightweight **UNe
 📍 Kaggle link: [https://www.kaggle.com/datasets/tapakah68/segmentation-full-body-mads-dataset](https://www.kaggle.com/datasets/tapakah68/segmentation-full-body-mads-dataset)
 
 
-🤖 Model: Download best_unet_mads.keras in the repo
+🤖 Model: Download best_unet_mads.keras in the [repo](https://github.com/ERo2203/Human-Image-Segmentation/blob/main/best_unet_mads.keras)
 - 1192 images with corresponding binary masks
 - Multiple classes of human poses and actions
 - High-quality segmentation masks for supervised training
